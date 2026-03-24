@@ -76,24 +76,34 @@ I enjoy turning ideas into functional, user-friendly products and continuously i
 
 ## 🎓 Education
 
-- 🎓 BTech (Pursuing)  
+- ---
+
+## 🎓 Education
+
+| Qualification | Institution | Score |
+|--------------|------------|-------|
+| 🎓 BTech (Pursuing) | NITRA Technical Campus Ghaziabad | 70% |
+| 🏫 12th (Board) | St. Kamla Children Sr. Sec. School | 71.33% |
+| 🏫 10th (Board) | St. Kamla Children Sr. Sec. School | 81.33% |
+
 - 📚 Focus: Web Development & Software Engineering  
+
+---
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-manverma&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-manverma&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=A-manverma&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=A-manverma&theme=tokyonight" />
-</p>
+--->
 
 ---
 

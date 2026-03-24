@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aman Verma 👋
 
-<!--
-**A-manverma/A-manverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+💻 Full Stack Developer  
+🚀 Learning React & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Working on RAG AI Assistant
+- Building real-world projects
+- Learning backend & APIs
+
+---
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Node.js, Express
+- MongoDB
+
+---
+
+## Projects
+- RAG AI Assistant
+- Urban Hub
+- E-commerce Website
+
+---
+
+## Contact
+- Email: amanverma0202004@gmail.com

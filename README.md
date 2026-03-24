@@ -4,14 +4,21 @@
 🎓 BTech Student | 💻 Full Stack Developer | 🚀 React Enthusiast
 </p>
 
+<p align="center">
+🚀 Building real-world projects & AI-powered applications
+</p>
+
 ---
 
 ## 🧠 About Me
-- 🚀 Building RAG-Based AI Assistant
-- 💻 Skilled in React, Node.js, Tailwind
-- 📈 Focused on real-world projects
+
+- 🚀 Currently building **RAG-Based AI Assistant**
+- 💻 Skilled in **React, Node.js, Tailwind CSS**
+- ⚙️ Exploring backend & AI integrations
+- 📈 Focused on scalable, real-world projects
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -24,31 +31,40 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
 
-## 🚀 Projects
-- RAG AI Assistant  
-- Urban Hub  
-- E-commerce Website  
+## 🚀 Featured Projects
+
+- 🤖 **RAG AI Assistant** – AI-powered assistant using LLM + retrieval  
+- 🏙️ **Urban Hub** – Modern React UI with Tailwind  
+- 🛒 **E-Commerce Website** – Full-stack project with API integration  
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-manverma&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=A-manverma&theme=tokyonight" />
+</p>
 
 ---
 
-## Contact
-- Email: amanverma0202004@gmail.com
+## 📫 Contact
+
+<p align="center">
+📧 amanverma0202004@gmail.com  
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-manverma&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=A-manverma&theme=tokyonight)
-
+<p align="center">
+⭐ <b>"Consistency beats talent."</b>
+</p>

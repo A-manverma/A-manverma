@@ -1,46 +1,82 @@
 <h1 align="center">Hi there, I'm Aman Verma 👋</h1>
 
 <p align="center">
-🎓 BTech Student | 💻 Full Stack Developer | 🚀 React Enthusiast
+  💻 Full Stack Developer • 🚀 React Enthusiast • 🤖 AI Builder
 </p>
 
 <p align="center">
-🚀 Building real-world projects & AI-powered applications
+  Building scalable web apps and real-world AI solutions
 </p>
 
 ---
 
-## 🧠 About Me
+## 🙋‍♂️ About Me
 
-- 🚀 Currently building **RAG-Based AI Assistant**
-- 💻 Skilled in **React, Node.js, Tailwind CSS**
-- ⚙️ Exploring backend & AI integrations
-- 📈 Focused on scalable, real-world projects
+I’m a BTech student passionate about building real-world applications with modern technologies.  
+I enjoy turning ideas into functional, user-friendly products and continuously improving my skills.
+
+- 🚀 Currently working on **RAG-Based AI Assistant**
+- 💻 Strong in **React, Tailwind CSS, Node.js**
+- ⚙️ Exploring backend architecture & AI integrations
+- 📈 Focused on scalable and impactful projects
+- 📩 Reach me at: **amanverma0202004@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Frontend
+<p>
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
-<p align="center">
+### ⚙️ Backend
+<p>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤖 **RAG AI Assistant** – AI-powered assistant using LLM + retrieval  
-- 🏙️ **Urban Hub** – Modern React UI with Tailwind  
-- 🛒 **E-Commerce Website** – Full-stack project with API integration  
+### 🤖 RAG-Based AI Assistant
+- AI-powered assistant using LLM + retrieval system  
+- Context-aware responses  
+- Built with React + Node.js  
+
+---
+
+### 🏙️ Urban Hub (React Project)
+- Modern UI using Tailwind CSS  
+- Fully responsive layout  
+- Clean component-based architecture  
+
+---
+
+### 🛒 E-Commerce Website
+- Product listing, cart, checkout  
+- API integration  
+- Focus on performance & UX  
+
+---
+
+## 🎓 Education
+
+- 🎓 BTech (Pursuing)  
+- 📚 Focus: Web Development & Software Engineering  
 
 ---
 
@@ -48,6 +84,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-manverma&layout=compact&theme=tokyonight" />
 </p>
 
@@ -57,14 +96,10 @@
 
 ---
 
-## 📫 Contact
-
 <p align="center">
-📧 amanverma0202004@gmail.com  
+  💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
----
-
 <p align="center">
-⭐ <b>"Consistency beats talent."</b>
+⭐ If you like my work, consider giving a star!
 </p>

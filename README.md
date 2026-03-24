@@ -32,6 +32,7 @@ I enjoy turning ideas into functional, user-friendly products and continuously i
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui"/>
 </p>
 
 ### ⚙️ Backend
@@ -59,7 +60,7 @@ I enjoy turning ideas into functional, user-friendly products and continuously i
 
 ---
 
-### 🏙️ Urban Hub (React Project)
+### 🏙️ Uday (React Project)
 - Modern UI using Tailwind CSS  
 - Fully responsive layout  
 - Clean component-based architecture  

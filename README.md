@@ -40,7 +40,7 @@ I enjoy turning ideas into scalable, user-friendly products and continuously imp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Frontend
 <p align="left">
@@ -103,7 +103,7 @@ Focus: Web Development & Software Engineering
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A-manverma&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -118,7 +118,7 @@ Focus: Web Development & Software Engineering
 
 <p align="center">
   💡 <i>"The best way to predict the future is to create it."</i><br/>
-  <b>— Peter Drucker</b>
+  <b>- Peter Drucker</b>
 </p>
 
 <p align="center">

@@ -1,4 +1,4 @@
-<!-- 🔥 Typing Animation -->
+<!--  Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Enthusiast;Building+AI+Projects;Always+Learning+New+Things" />
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Aman Verma 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer • 🚀 React Enthusiast • 🤖 AI Builder
+  Full Stack Developer • React Enthusiast • AI Builder
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I’m a BTech student passionate about building real-world applications with modern technologies.  
 I enjoy turning ideas into scalable, user-friendly products and continuously improving my skills.
 
-- 🚀 Currently building **RAG-Based AI Assistant**
-- 💻 Strong in **React, Tailwind CSS, Node.js**
-- ⚙️ Exploring backend architecture & AI integrations
-- 📈 Focused on impactful and production-level projects
+- Currently building **RAG-Based AI Assistant**
+- Strong in **React, Tailwind CSS, Node.js**
+- Exploring backend architecture & AI integrations
+- Focused on impactful and production-level projects
 
 ---
 
@@ -68,23 +68,23 @@ I enjoy turning ideas into scalable, user-friendly products and continuously imp
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 RAG-Based AI Assistant
+### RAG-Based AI Assistant
 - AI-powered assistant using LLM + retrieval system  
 - Context-aware responses  
 - Built with React + Node.js  
 
 ---
 
-### 🏙️ Uday (React Project)
+### Uday (React Project)
 - Modern UI using Tailwind CSS  
 - Fully responsive layout  
 - Clean architecture  
 
 ---
 
-### 🛒 E-Commerce Website
+### E-Commerce Website
 - Product listing, cart, checkout  
 - API integration  
 - Focus on performance & UX  
@@ -99,7 +99,7 @@ I enjoy turning ideas into scalable, user-friendly products and continuously imp
 | 🏫 12th (CBSE) | St. Kamla Children Sr. Sec. School | 2022 | 71.33% |
 | 🏫 10th (CBSE) | St. Kamla Children Sr. Sec. School | 2020 | 81.33% |
 
-📚 Focus: Web Development & Software Engineering  
+Focus: Web Development & Software Engineering  
 
 ---
 

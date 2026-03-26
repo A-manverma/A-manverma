@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Specialist;AI+Enthusiast;Building+Real+World+Projects" />
 </p>
-
 <h1 align="center">Aman Verma 👋</h1>
 
 <p align="center">

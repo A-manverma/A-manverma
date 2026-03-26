@@ -6,11 +6,11 @@
 <h1 align="center">Aman Verma 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer • React Specialist • AI Enthusiast</b>
+  Full Stack Developer • React Specialist • AI Enthusiast
 </p>
 
 <p align="center">
-  Building scalable web applications and AI-powered solutions
+  Building scalable web applications and AI-powered solutions for real-world impact
 </p>
 
 <!-- Buttons -->
@@ -44,10 +44,10 @@
 
 Entry-level Full Stack Developer experienced in building responsive, scalable web applications using React and Node.js, focused on user-centric interfaces, efficient backend systems, and high-performance solutions.
 
-- Currently building RAG-Based AI Assistant  
-- Strong in React, Tailwind CSS, Node.js  
-- Exploring backend architecture and AI integrations  
-- Focused on production-level, real-world projects  
+- Currently building **RAG-Based AI Assistant**  
+- Strong in **React, Tailwind CSS, Node.js**  
+- Exploring **Backend Architecture & AI Integrations**  
+- Focused on **production-level, real-world projects**  
 
 ---
 

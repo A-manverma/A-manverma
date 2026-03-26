@@ -1,31 +1,31 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Specialist;Building+AI+Solutions;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Specialist;AI+Enthusiast;Building+Real+World+Projects" />
 </p>
 
-<h1 align="center">Hi there, I'm Aman Verma 👋</h1>
+<h1 align="center">Aman Verma 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer • ⚛️ React Specialist • 🤖 AI Enthusiast
+  <b>Full Stack Developer • React Specialist • AI Enthusiast</b>
 </p>
 
 <p align="center">
-  Building scalable web applications and AI-powered solutions for real-world impact
+  Building scalable web applications and AI-powered solutions
 </p>
 
-<!-- Social Buttons -->
+<!-- Buttons -->
 <p align="center">
   <a href="mailto:amanverma0202004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/A-manverma">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/amanverma2022/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/A-manverma">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://portfoliodev-two-iota.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
@@ -109,6 +109,13 @@ Check out my complete work and projects:
 
 ---
 
+## 📬 Contact Me
+
+- 📧 Email: amanverma0202004@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/amanverma2022/  
+
+---
+
 ## 🎓 Education
 
 | Qualification | Institution | Year | Score |
@@ -131,14 +138,6 @@ Focus: Web Development & Software Engineering
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=A-manverma&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-## 📬 Let's Connect
-
-I'm open to internships, freelance projects, and collaboration opportunities.
-
-Feel free to reach out.
 
 ---
 
